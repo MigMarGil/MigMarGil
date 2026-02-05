@@ -1,85 +1,89 @@
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
-<p>
-  <h1 align="center"><b>Hello there, I'm Miguel 👋</b></h1>
-</p>
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
-<p>
-  <h4 align="center"><b>"First, solve the problem. Then, write the code."</b></h4>
+<h1 align="center">Miguel Martín Gil</h1>
+<h3 align="center">Computer Science · Programming Languages & Compiler Engineering</h3>
+
+<p align="center">
+  <em>"First, solve the problem. Then, write the code."</em>
 </p>
 
 <p align="center">
-    <img align="center" alt="visitors" src="https://komarev.com/ghpvc/?username=MigMarGil&label=Profile%20views&color=0e75b6&style=flat" />
+  <a href="https://www.linkedin.com/in/miguel-mart%C3%ADn-gil-992a80376/">LinkedIn</a> ·
+  <a href="mailto:miguel.martin.gil.uni@gmail.com">Email</a> ·
+  <a href="https://github.com/MigMarGil">GitHub</a>
 </p>
 
-<p align="center">
-<br>
-<a href="https://www.linkedin.com/in/tu-linkedin/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:tu-email@gmail.com?subject=Hello%20Miguel"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<a href="https://github.com/MigMarGil"><img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
-</p>
+---
 
-<br>
+### Profile
 
-<img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
+I am a Computer Science student focused on **programming language design and compiler implementation**, with particular interest in **type systems, intermediate representations, and low-level code generation**.
 
-### I'm a Computer Science student passionate about compilers
-- 🔭 I’m currently building **[Vela](https://github.com/MigMarGil/Vela_lang)** - A modern programming language
-- 🌱 I’m learning **Compiler Design, Type Systems, and LLVM**
-- 👯 I’m looking to collaborate on **compiler and language projects**
-- 💬 Ask me about **programming languages, compilers, or Python**
-- 📫 How to reach me: **[LinkedIn][linkedin]** or **[Email][email]**
-- ⚡ Fun fact: **I believe every programmer should build at least one language**
-- 🎯 2026 Goal: **Complete Vela's LLVM backend and standard library**
+My work emphasizes understanding systems **from first principles**, prioritizing correctness, explicit semantics, and well-defined abstractions.
 
-<br>
+---
 
-### Languages and Tools I use:
+### Current focus
 
-<img align="left" alt="Python" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="C++" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="C" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
-<img align="left" alt="LLVM" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/llvm/llvm.png" />
-<img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Linux" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
-<img align="left" alt="Bash" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />
-<img align="left" alt="Markdown" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" />
+- Design and implementation of **Vela**, a modern programming language
+- Compiler pipelines: parsing, semantic analysis, IR design, and optimization
+- **LLVM-based backends** and code generation
+- Static type systems and language semantics
 
-<br>
-<br>
-<br>
-<br>
+**Medium-term objective:** deliver a complete LLVM backend and a minimal, well-specified standard library for Vela.
 
-### 🚀 Featured Project: Vela Language
+---
+
+### Selected project
+
+#### Vela Programming Language
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MigMarGil&repo=Vela_lang&theme=dark)](https://github.com/MigMarGil/Vela_lang)
 
-### :zap: Github Stats
+Vela is an experimental programming language designed to explore language design trade-offs, strong static typing, and modern compilation techniques.  
+The project serves both as a research-oriented exercise and a practical implementation of compiler theory.
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=MigMarGil&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e&hide=issues" alt="Miguel's Github Stats" width="60%">
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MigMarGil&layout=compact&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Miguel's Top Languages">
+---
 
-<br>
-<br>
+### Technical skills
 
-### 📚 Currently Learning
-- **Compiler Construction** - Dragon Book & LLVM tutorials
-- **Type Systems** - Pierce's "Types and Programming Languages"
-- **Parallel Programming** - Patterns for automatic parallelization
+**Languages**  
+Python · C · C++
 
-### 💡 Philosophy
-> "The best way to understand a system is to build it from scratch. That's why I'm building Vela."
+**Compilers & systems**  
+LLVM · Intermediate Representations · Parsing · Semantic Analysis · Static Analysis
 
-<br>
+**Tooling & environment**  
+Git · Linux · Bash · VS Code · Markdown
 
-<div align="center">
-<h3 align="center">Check out my projects and give them a ⭐ if you like them!</h3>
-</div>
+---
 
-<img src="https://raw.githubusercontent.com/MigMarGil/MigMarGil/main/wave.svg" width="100%" />
+### Background reading & study
 
-<!-- Links -->
-[linkedin]: https://www.linkedin.com/in/tu-linkedin/
-[email]: mailto:tu-email@gmail.com
-[vela]: https://github.com/MigMarGil/Vela_lang
+- *Compilers: Principles, Techniques, and Tools* — Aho et al.
+- *Types and Programming Languages* — Benjamin C. Pierce
+- LLVM documentation and implementation guides
+- Parallelism and program optimization strategies
+
+---
+
+### GitHub activity
+
+My public repositories primarily reflect ongoing work on programming
+languages and compiler-related projects, with an emphasis on correctness
+and explicit design.
+
+
+---
+
+### Statement
+
+I believe that building a programming language is one of the most rigorous ways to understand computation.  
+Vela exists as a direct consequence of that belief.
+
+---
+
+### Closing
+
+This profile documents my ongoing work in programming languages and compiler engineering.  
+If you are interested in these areas, feel free to explore my repositories or contact me directly.
